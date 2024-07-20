@@ -15,6 +15,9 @@ Version Control: Git & GitHub
 📫 How to reach me:
 
 ⚡LinkedIn: https://www.linkedin.com/in/hadeermagdy/
+<br/>
+⚡Whatsapp:01144224610
+<br/>
 ⚡Email:hadeer.magdy711@yahoo.com
 
 <!--
